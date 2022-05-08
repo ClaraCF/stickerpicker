@@ -1,8 +1,7 @@
 {
   "packs": [
-    "boni.json",
-    "mr_uncanny.json",
-    "mr_canny.json"
+    "Mr._Incredible.json",
+    "Boni.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
