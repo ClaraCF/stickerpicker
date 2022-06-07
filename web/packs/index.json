@@ -1,7 +1,8 @@
 {
   "packs": [
     "Mr._Incredible.json",
-    "Boni.json"
+    "Boni.json",
+    "Memes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
